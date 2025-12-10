@@ -1,0 +1,28 @@
+.sidebar{
+  width:220px;
+  padding:40px 30px;
+  background:#f7f8fe;
+}
+
+.sidebar h3{
+  font-size:20px;
+  color:#0e2b66;
+  margin-bottom:16px;
+}
+
+.sidebar p{
+  padding:8px 0;
+  cursor:pointer;
+  color:#496085;
+}
+
+.sidebar p:hover{
+  color:#0e2b66;
+  font-weight:600;
+}
+
+.clear{
+  margin-top:20px;
+  color:#d03232!important;
+  font-weight:600;
+}

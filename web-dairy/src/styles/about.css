@@ -1,0 +1,82 @@
+.about-page{
+  color:#0e2b66;
+  font-family:'Segoe UI', sans-serif;
+}
+
+/* HERO */
+.about-hero{
+  background:url("../assets/hero-secondary.png");
+
+  background-size:cover;
+  background-position:center;
+  padding:140px 60px;
+  text-align:center;
+  color:white;
+}
+
+.about-hero h1{
+  font-size:52px;
+  font-weight:700;
+}
+
+.about-hero p{
+  margin-top:12px;
+  font-size:18px;
+}
+
+/* TEXT */
+.about-text{
+  padding:60px;
+  max-width:860px;
+  margin:auto;
+  text-align:center;
+}
+
+.about-text h2{
+  font-size:34px;
+  margin-bottom:20px;
+}
+
+/* BENEFITS */
+.benefits{
+  background:#f5f8ff;
+  padding:70px;
+}
+
+.benefits h2{
+  text-align:center;
+  font-size:34px;
+}
+
+.benefits-grid{
+  margin-top:40px;
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:30px;
+}
+
+.benefits-grid .box{
+  background:white;
+  padding:25px;
+  border-radius:16px;
+  text-align:center;
+}
+
+/* PRODUCTS LIST */
+.cat-section{
+  padding:80px;
+  text-align:center;
+}
+
+.cat-section h2{
+  font-size:32px;
+  margin-bottom:30px;
+}
+
+.cat-section ul{
+  list-style:none;
+  font-size:20px;
+  line-height:40px;
+  padding:0;
+  color:#355;
+}

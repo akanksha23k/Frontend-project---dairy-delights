@@ -1,0 +1,38 @@
+.footer {
+  background:#022b66;
+  color:white;
+  padding:50px;
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  flex-wrap:wrap;
+}
+
+.footer-logo{
+  width:70px;
+  height:auto;
+  display:block;
+  margin-bottom:10px;
+}
+
+.footer-left h2{
+  font-size:24px;
+  margin-bottom:4px;
+}
+
+.footer-bottom{
+  width:100%;
+  text-align:center;
+  margin-top:30px;
+  font-size:13px;
+  opacity:0.8;
+}
+
+.footer-links p{
+  margin:4px 0;
+  cursor:pointer;
+}
+
+.footer-contact p{
+  margin:4px 0;
+}
