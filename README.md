@@ -1,9 +1,10 @@
-🥛 Dairy Delight – Organic Dairy Store (React App)
-🌿 Fresh milk and dairy products delivered to your doorstep!
+****Dairy Delight – Organic Dairy Store (React App)**
+
+Fresh milk and dairy products delivered to your doorstep!
 
 Dairy Delight is a single-page e-commerce web application built in React that allows users to explore varieties of organic milk & dairy products and place online orders.
 
-🚀 Features
+**Features**
 
 ✔ Browse dairy products
 ✔ Search products
@@ -15,57 +16,45 @@ Dairy Delight is a single-page e-commerce web application built in React that al
 ✔ Secure admin login
 ✔ Modern pastel UI
 
-🧀 Dairy Categories
+**Dairy Categories :-**
 
 Milk
-
 Yogurt
-
 Butter
-
 Cheese
-
 Paneer
-
 Ghee
-
 Cream
-
 Buttermilk
-
 Desserts
-
 Desserts include:
-
 Kulfi
-
 Pedha
-
 Barfi
-
 Khoya, etc.
 
-🖥 Tech Stack
+**Tech Stack**
 Frontend	Backend	Styling
 React	JSON Server	CSS
 React Router v6	REST API	Flex/Grid
 Axios	Local DB	Pastel UI
-📦 Installation & Setup
-1️⃣ Clone repo
+
+**Installation & Setup**
+1> Clone repo
 git clone https://github.com/yourusername/dairy-delight.git
 cd dairy-delight
 
-2️⃣ Install dependencies
+2> Install dependencies
 npm install
 
-3️⃣ Start React app
+3> Start React app
 npm start
 
 
-Runs on:
-👉 http://localhost:3000
+**Runs on:**
+ http://localhost:3000
 
-4️⃣ Start JSON Server
+ **Start JSON Server**
 
 If db.json is in /data folder:
 
@@ -79,9 +68,9 @@ json-server --watch data/db.json --port 3001
 
 
 API runs on:
-👉 http://localhost:3001/products
+http://localhost:3001/products
 
-🔐 Admin Login
+Admin Login
 
 Go to:
 
@@ -92,7 +81,7 @@ Enter security PIN:
 
 1234
 
-📁 Folder Structure
+Folder Structure
 src/
   components/
   pages/
@@ -100,30 +89,27 @@ src/
   assets/
   data/db.json
 
-🎨 UI Highlights
+UI Highlights
 
-✔ Pastel color theme
-✔ Rounded cards
-✔ Modern typography
-✔ Product gallery
-✔ Creamy background
-✔ Responsive design
+ Pastel color theme
+ Rounded cards
+ Modern typography
+ Product gallery
+ Creamy background
+ Responsive design
 
-🧩 Future Enhancements
+Future Enhancements
 
-🔹 Cart & checkout
-🔹 Reviews
-🔹 Ratings
-🔹 Payments
-🔹 Wishlist
-🔹 Image slider
-🔹 Firebase auth
+Cart & checkout
+Reviews
+Ratings
+Payments
+Wishlist
+Image slider
+Firebase auth
 
-📌 Screenshots
 
-(Add homepage, product page, order page, admin page screenshots here)
-
-🤝 Contributions
+Contributions
 
 Pull requests are welcome.
 Fork → Modify → PR.
@@ -134,7 +120,7 @@ Give it a star ⭐ on GitHub
 
 Author
 
-👩‍💻 Aakanksha Kapadnis
+Aakanksha Kapadnis
 
 🧡 Enjoy your dairy shopping!
 
