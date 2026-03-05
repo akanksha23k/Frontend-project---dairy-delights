@@ -14,7 +14,7 @@ export default function About() {
         </p>
       </section>
 
-      {/* WHAT WE DO */}
+      {/* About */}
       <section className="about-text">
         <h2>Why Choose Us?</h2>
         <p>
