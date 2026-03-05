@@ -6,15 +6,15 @@ Dairy Delight is a single-page e-commerce web application built in React that al
 
 **Features**
 
-✔ Browse dairy products
-✔ Search products
-✔ Filter by category
-✔ Product details page
-✔ Order form
-✔ JSON Server backend
-✔ Admin order requests page
-✔ Secure admin login
-✔ Modern pastel UI
+Browse dairy products
+Search products
+Filter by category
+Product details page
+Order form
+JSON Server backend
+Admin order requests page
+Secure admin login
+Modern pastel UI
 
 **Dairy Categories :-**
 
